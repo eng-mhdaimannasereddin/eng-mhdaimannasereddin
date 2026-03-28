@@ -1,8 +1,8 @@
 ### Hello 👋🏻 I'm Eng. Ayman  
 
-[![Linkedin Badge](https://img.shields.io/badge/Ayman-30302f?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engaymannasereddin/)
-[![Telegram Badge](https://img.shields.io/badge/Ayman-30302f?style=flat&logo=telegram)](https://t.me/engmhdaimannasereddin)
-[![Email Badge](https://img.shields.io/badge/your@email.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:mhdaimannasereddin@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/engaymannasereddin-30302f?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engaymannasereddin/)
+[![Telegram Badge](https://img.shields.io/badge/engmhdaimannasereddin-30302f?style=flat&logo=telegram)](https://t.me/engmhdaimannasereddin)
+[![Email Badge](https://img.shields.io/badge/mhdaimannasereddin@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:mhdaimannasereddin@gmail.com)
 
 ---
 
