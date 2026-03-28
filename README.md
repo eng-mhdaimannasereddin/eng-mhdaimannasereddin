@@ -1,8 +1,8 @@
 ### Hello 👋🏻 I'm Eng. Ayman  
 
-[![Linkedin Badge](https://img.shields.io/badge/Ayman-30302f?style=flat&logo=linkedin&logoColor=white)](#)
-[![Telegram Badge](https://img.shields.io/badge/Ayman-30302f?style=flat&logo=telegram)](#)
-[![Email Badge](https://img.shields.io/badge/your@email.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:your@email.com)
+[![Linkedin Badge](https://img.shields.io/badge/Ayman-30302f?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engaymannasereddin/)
+[![Telegram Badge](https://img.shields.io/badge/Ayman-30302f?style=flat&logo=telegram)](https://t.me/engmhdaimannasereddin)
+[![Email Badge](https://img.shields.io/badge/your@email.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:mhdaimannasereddin@gmail.com)
 
 ---
 
@@ -16,7 +16,7 @@ Hi, I'm Eng. Ayman, Product Manager & Software Engineer with strong technical le
 - 📱 Experience in Web Platforms & Mobile Apps (Flutter)  
 - 🏗️ Specialized in building Admin Dashboards & SaaS systems  
 
-📫 Reach me: your@email.com  
+📫 Reach me: mhdaimannasereddin@gmail.com  
 
 ---
 
